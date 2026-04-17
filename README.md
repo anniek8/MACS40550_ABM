@@ -7,6 +7,7 @@ MACS40550_ABM
 ├── MidEx1/
 │   ├── agents.py
 │   ├── app.py
+│   ├── midex1.pdf
 │   └── model.py
 └── README.md
 ```
@@ -14,3 +15,5 @@ MACS40550_ABM
 ### Midterm Exercise 1
 
 Code: [agents.py](./MidEx1/agents.py) | [app.py](./MidEx1/app.py) | [model.py](./MidEx1/model.py)
+
+Paper: [midex1.pdf](./MidEx1/midex1.pdf)

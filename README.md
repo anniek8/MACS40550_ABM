@@ -14,6 +14,6 @@ Paper: [midex2.pdf](./MidEx2/midex2.pdf)
 
 ### Final Project
 
-Code: [agents.py](./FinalProject/agents.py) | [app.py](./FinalProject/app.py) | [model.py](./FinalProject/model.py) | [batch_run.ipynb](./FinalProject/batch_run.ipynb) | [figures](./FinalProject/figures)
+Code: [agents.py](./FinalProject/agents.py) | [app.py](./FinalProject/app.py) | [model.py](./FinalProject/model.py) | [batch_run.ipynb](./FinalProject/batch_run.ipynb)
 
-Paper: [final.pdf](./FinalProject/final.pdf)
+Paper: [ABM_final.pdf](./FinalProject/ABM_final.pdf)
